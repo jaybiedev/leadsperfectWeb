@@ -1,0 +1,14 @@
+[database]
+host = "localhost"
+database = "dbname"
+port = "5432"
+username = "dbuser"
+password = "dbpassword"
+
+[code]
+code_base = "code/development/2.0"
+bundle = "JGM";
+template = "template.tpl"
+
+[other]
+base_url = "192.168.1.1/web"
